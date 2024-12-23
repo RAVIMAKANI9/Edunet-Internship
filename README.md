@@ -12,6 +12,7 @@ Optimized for performance and maintainability.
 Project Links
 ------------------------------------
 GitHub Repository: https://github.com/RAVIMAKANI9/Edunet-Internship/
+
 Live Demo: https://roaring-sunburst-1ee5c3.netlify.app
 
 Technologies Used
